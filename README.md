@@ -9,7 +9,7 @@
 <h3 align="left">Connect with us:</h3>
 <p>Rambati Lumbung Pardja : https://github.com/codejiva</p>
 <p>Muhammad Zayan Hafizh : https://github.com/zayanhafizh</p>
-<p>Muh Alfian Amnur : https://github.com/</p>
+<p>Muh Alfian Amnur : https://github.com/PHYYY09</p>
 <br>
 <p align="left">
 </p>
